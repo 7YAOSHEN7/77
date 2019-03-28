@@ -5,5 +5,10 @@ gti111
 444
 555
 666
+<<<<<<< HEAD
 asadsadsd
 dsadasd
+=======
+777777777
+kkkkkkkkkkkkkkk
+>>>>>>> kj
