@@ -7,4 +7,8 @@ gti111
 666
 asadsadsd
 dsadasd
+<<<<<<< HEAD
 5453454
+=======
+
+>>>>>>> ee96a662366f39fa2d5f6006bb4fd8778e78ad41
